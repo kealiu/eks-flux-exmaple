@@ -1,1 +1,1 @@
-# eks-flux-exmaple
+# eks-example
